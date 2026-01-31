@@ -1,0 +1,30 @@
+Parameters:
+Population: 100
+Genome length: 200
+Crossover: One-point, rate 0.8
+Mutation rate: 0.005
+Generations: 100
+
+Selection method:    Rank
+Mean:                193.60
+Standard Deviation:  1.53
+95% CI:              [193.18, 194.02]
+No runs found the optimal individual
+============================================================
+Selection method:    Tournament
+Mean:                193.70
+Standard Deviation:  1.71
+95% CI:              [193.23, 194.17]
+No runs found the optimal individual
+============================================================
+Selection method:    Fitness-proportional
+Mean:                137.44
+Standard Deviation:  4.17
+95% CI:              [136.29, 138.59]
+No runs found the optimal individual
+============================================================
+Selection method:    Random
+Mean:                124.16
+Standard Deviation:  3.25
+95% CI:              [123.26, 125.06]
+No runs found the optimal individual
